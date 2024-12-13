@@ -11,4 +11,4 @@ Each graph in this repository represents a collection of individual experiments,
 
 Therefore, plotting Pareto frontiers is an effective way of visualizing the data in order to minimize both the unconstrained variance and cost. We can conclude that a specific sensor should be used in a certain region if the Pareto frontier displays high percentages of that sensor (yellow in the graphs). With this methodology, from the example graphs shown in this repository, it is clear that oxygen sensors should be used in the Indian Ocean around depths of 15 meters, chlorophyll sensors should be used in the North Atlantic around depths of 87.5 meters, while pH sensors are much less effective in the Southern Ocean around depths of 40 meters.
 
-This project was a highly insightful experience for me, as I was able to develop object-oriented software to make a significant impact on a relevant, real-world application!
+Undertaking this project was a highly insightful experience for me, as I was able to develop object-oriented software to make a significant impact on a relevant, real-world application!
